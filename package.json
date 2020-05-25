@@ -1,0 +1,14 @@
+{
+  "name": "test_resize_pictures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.25.3"
+  }
+}
